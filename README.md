@@ -9,3 +9,5 @@
 + JS
 + Gulp
 + БЭМ
+
+![alt-текст](https://i.ibb.co/QmTCM93/chip.png "Пример страницы")
