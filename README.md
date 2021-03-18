@@ -1,4 +1,4 @@
-<h2> [Chip Service](https://ijoise.github.io/chipService/) </h2>
+## [Chip Service](https://ijoise.github.io/chipService/) 
 
 Верстка по макету.
 
